@@ -3,7 +3,7 @@
 module.exports = {
 	db: 'mongodb://0dbuser:M!cr0Mark@ds047612.mongolab.com:47612/mypmnode',
 	app: {
-		title: 'MEAN - Development Environment'
+		title: 'myPM - Development Environment'
 	},
 	facebook: {
 		clientID: process.env.FACEBOOK_ID || 'APP_ID',
